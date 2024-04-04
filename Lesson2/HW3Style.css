@@ -1,5 +1,13 @@
+.flex {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 10px;
+}
 .box {
-    background-color: mediumpurple;
+    background-color: #73e5cd;
     width: 32%;
     height: 120px;
     display: flex;
@@ -7,7 +15,7 @@
     align-items: center;
 }
 .top{
-    background-color: mediumpurple;
+    background-color: #73e5cd;
     width: 100%;
     height: 120px;
     margin: 20px 10px;
@@ -17,19 +25,11 @@
 
 }
 .bottom{
-    background-color: mediumpurple;
+    background-color: #73e5cd;
     width: 100%;
     height: 400px;
     margin: 20px 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.flex {
-
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px 10px;
 }

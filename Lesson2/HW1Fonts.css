@@ -1,3 +1,8 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .box{
     background-color: mediumpurple;
     width: 120px;
@@ -8,10 +13,6 @@
     justify-content: center;
     align-items: center;
 }
-.flex{
-     display:flex;
-     justify-content: space-around;
-     align-items: center;
 .rubik{
     font-family: "Rubik Pixels", system-ui;
     font-weight: 400;
@@ -38,4 +39,3 @@
         font-weight: 400;
         font-style: normal;
     }
-}
