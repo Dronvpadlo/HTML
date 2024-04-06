@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.box-sect{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#purple{
+    background-color: #c057c0;
+}
+#pink{
+    background-color: pink;
+}
+#yellow{
+    background-color: yellow;
+}
+p {
+    font-size: 40px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+h1{
+    font-size: 80px;
+}
+a:hover{
+    background-color: lightcoral;
+    border-radius: 50%;
+    transition: 2s;
+}
