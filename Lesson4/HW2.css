@@ -48,7 +48,7 @@ p{
 }
 .button1{
     height: 7.8vh;
-    width: 27vh;
+    width: 27vw;
     border-radius: 5px;
     border: 1px solid rgba(156, 152, 152, 0.10);
     background: rgba(217, 217, 217, 0.60);
@@ -116,7 +116,7 @@ iframe{
 }
 .button2{
     height: 7.8vh;
-    width: 27vh;
+    width: 24vw;
     border-radius: 5px;
     border: 1px solid rgba(156, 152, 152, 0.10);
     background: rgba(217, 217, 217, 0.60);
