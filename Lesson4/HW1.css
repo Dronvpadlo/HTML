@@ -28,6 +28,14 @@ form{
 label{
     margin: 5px;
 }
+
+}
+#login{
+    font-size: 18px;
+    text-overflow: ellipsis;
+}
+#password{
+    font-size: 18px;
 }
 .inst{
     border: solid #bdb7b7;
@@ -60,8 +68,8 @@ input[type="submit"]{
     width: 355px;
     height: 46px;
     overflow: inherit;
-    background-color: #15baf6;
-    border: 2px solid #15baf6;
+    background-color: #3dc3f1;
+    border: 2px solid #3dc3f1;
     border-radius: 12px;
     margin-top: 10px;
     color: #ffffff;
@@ -102,6 +110,7 @@ span{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 18px;
 }
 #sing{
     margin-left: 10px;
