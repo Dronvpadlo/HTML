@@ -5,6 +5,7 @@
     .links{
         display: flex;
     .link1, .link2, .link3, .link4{
+        font-size: 40px;
         height: 5vh;
         width: 7vw;
         margin: 5px;

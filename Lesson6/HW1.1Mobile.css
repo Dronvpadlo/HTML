@@ -6,6 +6,7 @@
         align-items: center;
     }
         .link1, .link2, .link3, .link4{
+            font-size: 20px;
             height: 5vh;
             margin: 5px;
             background-color: #6f86e3;
@@ -55,14 +56,14 @@
 
     header, footer{
         margin: 5px;
-        font-size: 40px;
+        font-size: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .box1, .box2, .box3, .box4 {
         margin: 5px;
-        font-size: 40px;
+        font-size: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
